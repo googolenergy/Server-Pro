@@ -10,4 +10,4 @@ Get started with your Minecraft adventure today! [Download Server Pro](https://d
 ## Screenshots:<br>
 ![Server_Pro_UI](images/img2.png)<br>
 <br>
-**Author:** OrbitX.Space
+Author: GoogolEnergy
